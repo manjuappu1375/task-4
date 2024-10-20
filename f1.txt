@@ -3,3 +3,11 @@ Summary: In a cozy little house, a tiny mouse named Max dreams of being brave li
 the lions he sees in books. One day, when a big cat comes to the house, 
 Max gathers his courage and distracts the cat by leading it on a chase. 
 The other animals cheer for Max, proving that bravery comes in all sizes!
+
+
+
+ The Kindness Tree
+Summary: In a village, there stands a magical tree that grows colorful fruits 
+every time someone does a good deed. When the villagers realize this, 
+they begin helping each other, and the tree blossoms with amazing colors. 
+They learn that kindness not only helps others but also brings joy to themselves
